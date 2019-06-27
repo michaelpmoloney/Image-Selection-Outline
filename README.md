@@ -8,5 +8,7 @@ Super-impose a red outline on an image wherever a user selects
 #### Example:
 
 
-![alt text](https://raw.githubusercontent.com/michaelpmoloney/Image-Selection-Outline/master/dog.jpeg)<br>
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/Image-Selection-Outline/master/dog.jpeg)
+
+
 ![alt text](https://raw.githubusercontent.com/michaelpmoloney/Image-Selection-Outline/master/example.bmp)
